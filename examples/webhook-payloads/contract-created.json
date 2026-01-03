@@ -1,0 +1,10 @@
+{
+  "eventId": "uuid-here",
+  "type": "CONTRACT_CREATED",
+  "timestamp": "2026-01-03T14:22:19Z",
+  "data": {
+    "contractId": 1,
+    "customerId": 22,
+    "amount": 1500
+  }
+}
